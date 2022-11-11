@@ -7,4 +7,4 @@ steps:
   - '-c'
   - | 
   
-    terraform destroy -auto-approve
+    terraform destroy
